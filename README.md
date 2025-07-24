@@ -3,7 +3,7 @@
 Bio: 
 Research paper on optimizing food cost in railway logistics using the transportation model (Published under Registration Number,  L-152589/2024)
 
-#Overview
+#Overview:
 This project presents a computational study aimed at optimizing the transportation of food platters in Indian railway logistics using operations research techniques. The study focuses on maximizing profits for railway catering services through cost-efficient allocation of resources.
 
 #Objective: 
@@ -37,7 +37,7 @@ Total Supply = Total Demand = 3000
 - Efficiency improved by balancing supply and demand across different platforms|
 - Supports scaling with changing data inputs or real-time station demands.
 
-#Research Application
+#Research Application:
 **"Computational Study on Optimizing Transportation Cost in Railway Logistics"**
 *Copyright ID*: 26633/2024-CO/L
 *Authors*: Tivsha Sharma, G.Sharma
@@ -54,6 +54,6 @@ Mody Unniversity of Science and Technology
 - Expansion to include supply chain constraints
 - Integration with real-time train catering services
 
-#Author 
-Tivsha Sharma 
+#Author|
+Tivsha Sharma|
 ativshav25@gmail.com
