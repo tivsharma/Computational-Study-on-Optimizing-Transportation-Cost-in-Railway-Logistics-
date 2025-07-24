@@ -44,7 +44,8 @@ Total Supply = Total Demand = 3000
 Mody Unniversity of Science and Technology
 
 #Folder Structure
-- 'Research Paper.pdf' (Full published paper)
+- 'Research File.pdf' (Full paper)
+- Copyright Certificate.pdf
 - 'Model Excel Solver.xlsx'
 - 'Solver setup.png'
 - 'README.md' (Project Overview)
