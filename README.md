@@ -15,10 +15,10 @@ Analyze, formulate and maximizing the profit in food transportaion in Rail Logis
 - **Manual Optimiaztion Techiques** (Transporation Problem)
 
 #Key Insights
-- **Profit maximization** for food delivery across 4 railway platforms using a transportation model|
-- Solved using **Excel Solver** with detailed step-by-step methodology|
-- Achieved a daily **optimal profit of ₹3,04,450/-** for the catering provider|
-- The solution is **scalable** and can be applied across different locations and cost structures|
+- **Profit maximization** for food delivery across 4 railway platforms using a transportation model.
+- Solved using **Excel Solver** with detailed step-by-step methodology.
+- Achieved a daily **optimal profit of ₹3,04,450/-** for the catering provider.
+- The solution is **scalable** and can be applied across different locations and cost structures.
 - The paper uses **secondary data** and realistic assumptions to mirror real-world logistics conditions.
 
   #Data Summary
