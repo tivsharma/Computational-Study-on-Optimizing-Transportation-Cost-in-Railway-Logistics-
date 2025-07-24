@@ -45,7 +45,7 @@ Mody Unniversity of Science and Technology
 
 #Folder Structure
 - 'Research File.pdf' (Full paper)
-- Copyright Certificate.pdf
+- 'Copyright Certificate.pdf'
 - 'Model Excel Solver.xlsx'
 - 'Solver setup.png'
 - 'README.md' (Project Overview)
